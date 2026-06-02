@@ -1,0 +1,14 @@
+/* style.css */
+
+/* Importação da fonte institucional Inter do Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+
+/* Configuração global da tipografia */
+body {
+    font-family: 'Inter', sans-serif;
+}
+
+/* Gradiente exclusivo para a seção Hero (Padrão Enterprise) */
+.enterprise-gradient {
+    background: linear-gradient(135deg, #064e3b 0%, #022c22 100%);
+}
